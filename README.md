@@ -9,3 +9,5 @@ QQ群 881563703 或 722597758
 备用链接②：http://lzz.lezaixin.com/thread-1-1-1.html
 
 2. 最新电影每天更新：http://www.lezaixin.com/thread-11578-1-1.html
+
+.<img src="https://tva2.sinaimg.cn/mw690/d30f17e4gy1g8h41uu7crj20ey0pw0y8.jpg" />
