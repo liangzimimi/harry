@@ -1,10 +1,10 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png" group-title="央视", CCTV-1
-http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/2HD.png"  group-title="央视", CCTV-2
-http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/3HD.png" group-title="央视", CCTV-3
-http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/4HD.png"  group-title="央视", CCTV-4
 http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/5HD.png" group-title="央视", CCTV-5
