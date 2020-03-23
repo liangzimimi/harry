@@ -189,6 +189,8 @@ http://ivi.bupt.edu.cn/hls/nxtv.m3u8
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=91&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="地方台",爱上4K
 http://118.123.60.201:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=1&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="地方台",纯享4K
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 group-title="地方台",BEST4K
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 group-title="地方台",广东综艺4K
