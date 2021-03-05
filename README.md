@@ -1,4 +1,4 @@
-# 收藏备用，永久入口
+# 磁力链接搜索引擎实时更新：可用、好用、值得推荐的！
 
 官方微信 lingjike 或 liangzijie666666
 
@@ -46,4 +46,4 @@ http://rarbgto.org/
 
 7、
 
-.<img src="https://tva2.sinaimg.cn/mw690/d30f17e4gy1g8h41uu7crj20ey0pw0y8.jpg" />
+
